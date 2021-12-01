@@ -14,11 +14,10 @@ The data consists of the following variables:
 8.	Fitness: Customer’s self-rated fitness on a 1-to-5 scale (1: very unfit; 5: very fit); 
 9.	Income: Customer’s annual household income (integer values); 
 10.	Miles: Average number of miles the customer expects to walk/run each week (integer values).
-![image](https://user-images.githubusercontent.com/73086331/144265184-a341b04a-202a-4c8e-893e-5a3d0d42f60e.png)
 
 
 
-## Data Preparation
+## Data Preparations
 -	State of data
 The initial state of data is not cleaned. There are total of 183 rows of data, other than Product and Branch, all other columns contain more than missing values. 
 For column MaritalStatus, there are few irregular values like “S” and “P”, which supposed to be “Single” and “Partnered”. Thus, a substantial data cleanup is definitely needed to fill up all missing values and make sure data in MaritalStatus is regular and consistent. 
@@ -84,9 +83,6 @@ df["MaritalStatus"] = df["MaritalStatus"].apply(lambda x: "Partnered" if x == "P
 5. Lastly, I realized that there are 3 missing values in Gender and MaritalStatus, so I made a decision to drop these three rows, because in these three rows, only Product and Branch columns are filled with value, and the rest are NA values, which does not help in the data visualization later. 
 df = df.dropna(axis='rows')
 
-
-
-
 Int64Index: 180 entries, 0 to 182
 Data columns (total 10 columns):
  #   Column         Non-Null Count  Dtype 
@@ -102,8 +98,6 @@ Data columns (total 10 columns):
  8   Income         180 non-null    int32 
  9   Miles          180 non-null    int32 
 dtypes: int32(6), object(4)
-
-![image](https://user-images.githubusercontent.com/73086331/144264806-a99d5546-474d-4689-808f-d77d1b9e2d7c.png)
 
 ## DashBoards
 ![image](https://user-images.githubusercontent.com/73086331/144264902-4c08bc94-eb4f-4199-8ceb-27048f80d4e9.png)
