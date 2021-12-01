@@ -1,0 +1,184 @@
+Product,Branch,Age,Gender,Education,MaritalStatus,Usage,Fitness,Income,Miles
+FT100,Jurong,18,Male,14,Single,,4,29562,112
+FT100,Tampines,19,Male,15,Single,2,3,31836,75
+FT100,Jurong,19,Female,14,P,4,3,30699,66
+FT100,Tiong Bahru,na,na,na,na,na,na,na,na
+FT100,Jurong,19,Male,12,S,,3,32973,85
+FT100,Woodlands,20,Male,13,Partnered,4,2,35247,47
+FT100,Tampines,20,Female,14,Partnered,3,3,32973,66
+FT100,Tampines,21,Female,14,Partnered,3,3,35247,75
+FT100,Jurong,21,Male,13,Single,,3,32973,85
+FT100,Jurong,21,Male,15,Single,5,4,35247,141
+FT100,Tiong Bahru,21,Female,15,Partnered,2,3,37521,85
+FT100,Tiong Bahru,22,Male,14,Single,3,3,36384,85
+FT100,Tiong Bahru,22,Female,14,Partnered,3,2,35247,66
+FT100,Jurong,22,Female,16,Single,4,3,36384,75
+FT100,Tiong Bahru,22,Female,14,Single,3,3,35247,75
+FT100,Jurong,23,Male,16,Partnered,3,1,38658,47
+FT100,Woodlands,23,Male,16,Partnered,3,3,40932,75
+FT100,Tampines,23,Female,14,Single,2,3,34110,103
+FT100,Tiong Bahru,23,Male,16,Partnered,4,3,39795,94
+FT100,Jurong,23,Female,16,Single,4,3,38658,113
+FT100,Woodlands,23,Female,15,Partnered,2,2,34110,38
+FT100,Jurong,23,Male,14,Single,4,3,38658,113
+FT100,Tiong Bahru,23,Male,16,Single,4,3,40932,94
+FT100,Jurong,24,Female,16,Single,4,3,42069,94
+FT100,Tampines,24,Female,16,Partnered,5,5,44343,188
+FT100,Tiong Bahru,24,Male,14,Single,2,3,45480,113
+FT100,Tampines,24,Male,13,Partnered,3,2,42069,47
+FT100,Woodlands,24,Female,16,Single,4,3,46617,75
+FT100,Woodlands,25,Female,14,Partnered,3,3,48891,75
+FT100,Woodlands,25,Male,14,Partnered,2,3,45480,56
+FT100,Tiong Bahru,25,Female,14,Partnered,2,2,53439,47
+FT100,Tiong Bahru,25,Female,14,Partnered,3,3,39795,85
+FT100,Jurong,25,Male,16,Single,3,4,40932,113
+FT100,Tampines,25,Female,16,Partnered,2,2,40932,47
+FT100,Tiong Bahru,25,Male,16,Single,3,3,43206,85
+FT100,Jurong,26,Female,14,Partnered,3,4,44343,113
+FT100,Woodlands,26,Female,16,Partnered,4,3,52302,113
+FT100,Woodlands,26,Male,16,Partnered,2,2,53439,47
+FT100,Woodlands,26,Male,16,Partnered,3,3,51165,85
+FT100,Tiong Bahru,26,Female,16,Single,3,3,36384,66
+FT100,Tiong Bahru,26,Male,16,Partnered,4,4,44343,132
+FT100,Tiong Bahru,26,Male,16,Single,3,3,50028,85
+FT100,Jurong,27,Female,14,Partnered,3,2,45480,66
+FT100,Tiong Bahru,27,Male,16,S,4,3,54576,85
+FT100,Jurong,27,Female,14,P,2,3,45480,56
+FT100,Woodlands,28,Female,14,Partnered,2,3,46617,56
+FT100,Tiong Bahru,28,Female,16,Partnered,2,3,52302,66
+FT100,Jurong,28,Male,14,Single,3,3,52302,103
+FT100,Tiong Bahru,28,Female,14,Partnered,3,3,54576,94
+FT100,Woodlands,28,Male,14,Single,4,3,54576,113
+FT100,Tiong Bahru,28,Female,16,Partnered,3,3,51165,56
+FT100,Tampines,na,Male,18,Partnered,3,3,68220,85
+FT100,Tiong Bahru,na,Female,14,Partnered,2,2,46617,38
+FT100,Woodlands,na,Female,16,Partnered,4,3,50028,94
+FT100,Jurong,30,Male,14,Partnered,4,4,46617,141
+FT100,Woodlands,30,Male,14,Single,,3,54576,85
+FT100,Tiong Bahru,31,Male,14,Partnered,2,2,54576,47
+FT100,Woodlands,31,Female,14,Single,2,2,45480,47
+FT100,Woodlands,32,Female,14,Single,3,4,46617,113
+FT100,Jurong,32,Male,14,Partnered,4,3,52302,85
+FT100,Jurong,33,Female,16,Single,2,2,55713,38
+FT100,Woodlands,33,Female,16,Partnered,3,3,46617,85
+FT100,Tampines,34,Male,16,Single,4,5,51165,169
+FT100,Tampines,34,Female,16,Single,2,2,52302,66
+FT100,Tampines,35,Male,16,Partnered,4,3,48891,85
+FT100,Woodlands,35,Female,16,Partnered,3,3,60261,94
+FT100,Tiong Bahru,35,Female,18,Single,3,3,67083,85
+FT100,Jurong,36,Male,12,Single,4,3,44343,94
+FT100,Tiong Bahru,37,Female,16,Partnered,3,3,37521,85
+FT100,Jurong,38,Male,16,Partnered,3,3,46617,75
+FT100,Tiong Bahru,38,Female,14,Partnered,2,3,54576,56
+FT100,Tiong Bahru,38,Male,14,Single,2,3,52302,56
+FT100,Tiong Bahru,38,Male,16,Partnered,3,3,56850,75
+FT100,Woodlands,39,Male,16,Partnered,4,4,59124,132
+FT100,Jurong,40,Male,16,Partnered,3,3,61398,66
+FT100,Tiong Bahru,41,Male,16,Partnered,4,3,54576,103
+FT100,Tampines,43,Male,16,Partnered,3,3,53439,66
+FT100,Tampines,44,Female,16,Single,3,4,57987,75
+FT100,Jurong,46,Female,16,Partnered,3,2,60261,47
+FT100,Tampines,47,Male,16,Partnered,4,3,56850,94
+FT100,Jurong,50,Female,16,Partnered,3,3,64809,66
+FT400,Tampines,19,Male,14,Single,3,3,31836,64
+FT400,Tiong Bahru,20,Male,14,Single,2,3,32973,53
+FT400,Jurong,20,Female,14,Partnered,3,3,34110,106
+FT400,Tiong Bahru,20,Male,14,Single,3,3,38658,95
+FT400,Tampines,21,Female,14,Partnered,5,4,34110,212
+FT400,Woodlands,21,Male,16,Partnered,2,2,34110,42
+FT400,Tampines,21,Male,12,Partnered,2,2,32973,53
+FT400,Jurong,23,Male,14,Partnered,3,3,36384,95
+FT400,Woodlands,23,Male,14,Partnered,3,3,38658,85
+FT400,Jurong,23,Female,16,Single,3,3,45480,95
+FT400,Woodlands,23,Male,16,Partnered,4,3,45480,127
+FT400,Tiong Bahru,23,Female,16,Partnered,3,2,43206,74
+FT400,Tampines,23,Female,14,Single,3,2,40932,53
+FT400,Tiong Bahru,23,Male,16,Partnered,3,3,45480,64
+FT400,Jurong,24,Female,14,Single,3,2,40932,85
+FT400,Tampines,24,Male,14,Single,3,4,48891,106
+FT400,Tampines,24,Female,16,Single,,3,50028,106
+FT400,Tiong Bahru,25,Female,14,Partnered,2,3,45480,85
+FT400,Jurong,25,Female,14,Single,3,4,43206,127
+FT400,Jurong,25,Male,16,Partnered,2,2,52302,42
+FT400,Tampines,25,Female,14,Partnered,5,3,47754,106
+FT400,Tampines,25,Male,14,Single,3,3,45480,95
+FT400,Tampines,25,Female,14,Single,2,3,43206,64
+FT400,Woodlands,25,Male,14,Partnered,4,3,45480,170
+FT400,Tiong Bahru,25,Male,14,Partnered,3,4,43206,106
+FT400,Tampines,25,Male,16,Partnered,2,3,50028,53
+FT400,Tampines,25,Female,14,Single,2,2,45480,42
+FT400,Tiong Bahru,25,Male,14,Single,4,3,48891,127
+FT400,Tampines,26,Female,16,Partnered,4,3,45480,85
+FT400,Jurong,26,Female,16,Single,4,4,50028,127
+FT400,Jurong,26,Male,16,Single,4,3,51165,106
+FT400,Jurong,27,Male,14,Single,4,2,45480,53
+FT400,Tiong Bahru,,Female,14,Partnered,3,3,51165,95
+FT400,Jurong,30,Female,14,Single,3,3,57987,74
+FT400,Tiong Bahru,30,Female,13,Single,4,3,46617,106
+FT400,Woodlands,31,Male,16,Partnered,3,3,52302,95
+FT400,Tampines,31,Female,16,Partnered,2,3,51165,64
+FT400,Jurong,31,Female,18,Single,2,1,65220,21
+FT400,Woodlands,32,Male,16,Single,4,3,60261,127
+FT400,Jurong,32,Male,16,Partnered,3,3,53439,95
+FT400,Jurong,33,Male,13,Partnered,4,4,53439,170
+FT400,Tiong Bahru,na,na,na,na,na,na,na,na
+FT400,Tiong Bahru,33,Female,16,Partnered,2,3,50028,85
+FT400,Woodlands,33,Male,16,Partnered,3,3,51165,95
+FT400,Tiong Bahru,33,Female,16,Partnered,5,3,53439,95
+FT400,Tampines,33,Female,18,Single,,4,47754,74
+FT400,Woodlands,34,Female,16,Partnered,4,3,64809,95
+FT400,Tampines,34,Male,16,Partnered,3,4,59124,85
+FT400,Tampines,34,Male,15,Single,3,3,67083,85
+FT400,Tiong Bahru,35,Female,14,Partnered,3,2,52302,53
+FT400,Jurong,35,Male,16,Partnered,3,2,53439,53
+FT400,Woodlands,35,Female,16,Single,,2,50028,64
+FT400,Tiong Bahru,35,Male,16,Partnered,3,3,53439,95
+FT400,Jurong,37,Female,16,Partnered,2,3,48891,85
+FT400,Tampines,38,Female,16,Partnered,4,3,62535,85
+FT400,Woodlands,38,Male,16,Partnered,3,3,59124,106
+FT400,Woodlands,40,Female,16,Partnered,3,3,61398,85
+FT400,Tiong Bahru,40,Female,16,Single,3,3,57987,85
+FT400,Tiong Bahru,40,Male,16,P,3,3,64809,95
+FT400,Jurong,45,Male,16,P,2,2,54576,42
+FT400,Tiong Bahru,48,Male,16,Partnered,2,3,57987,64
+FT700,Tiong Bahru,22,Male,14,Single,4,3,48658,106
+FT700,Tiong Bahru,22,Male,16,Single,,5,54781,120
+FT700,Tampines,22,Male,18,Single,4,5,48556,200
+FT700,Woodlands,23,Male,16,Single,4,5,58516,140
+FT700,Woodlands,23,Female,18,Single,5,4,53536,100
+FT700,Tampines,23,Male,16,Single,4,5,48556,100
+FT700,Jurong,24,Male,16,Single,4,5,61006,100
+FT700,Jurong,24,Male,18,Partnered,4,5,57271,80
+FT700,Woodlands,24,Female,16,Single,5,5,52291,200
+FT700,Tampines,24,Male,16,Single,5,5,49801,160
+FT700,Jurong,25,Male,16,Partnered,4,5,49801,120
+FT700,Tiong Bahru,25,Male,16,Partnered,4,4,62251,160
+FT700,Woodlands,25,Female,18,Partnered,5,5,61006,200
+FT700,Tampines,25,Male,18,Partnered,4,3,64741,100
+FT700,Woodlands,25,Male,18,Partnered,6,4,70966,180
+FT700,Tampines,25,Male,18,Partnered,6,5,75946,240
+FT700,Jurong,25,Male,20,Partnered,4,5,74701,170
+FT700,Tampines,26,Female,21,Single,4,3,69721,100
+FT700,Tampines,26,Male,16,Partnered,5,4,64741,180
+FT700,Tampines,27,Male,16,Partnered,4,5,83416,160
+FT700,Woodlands,27,Male,18,Single,4,3,88396,100
+FT700,Tiong Bahru,27,Male,21,Partnered,4,4,90886,100
+FT700,Woodlands,28,Female,18,Partnered,6,5,92131,180
+FT700,Woodlands,28,Male,18,Partnered,7,5,77191,180
+FT700,Tampines,28,Male,18,Single,6,5,88396,150
+FT700,Tampines,,Male,18,Single,5,5,52290,180
+FT700,Jurong,,Male,14,Partnered,7,5,85906,300
+FT700,Jurong,30,Female,16,Partnered,6,5,90886,280
+FT700,Tampines,30,Male,18,Partnered,5,4,103336,160
+FT700,Tiong Bahru,30,Male,18,Partnered,5,5,99601,150
+FT700,Tiong Bahru,31,Male,16,Partnered,6,5,89641,260
+FT700,Jurong,na,na,na,na,na,na,na,na
+FT700,Woodlands,33,Female,18,Partnered,4,5,95866,200
+FT700,Jurong,34,Male,16,Single,5,5,92131,150
+FT700,Tampines,35,Male,16,Partnered,4,5,92131,360
+FT700,Woodlands,38,Male,18,Partnered,5,5,104581,150
+FT700,Tampines,40,Male,21,Single,6,5,83416,200
+FT700,Jurong,42,Male,18,Single,5,4,89641,200
+FT700,Tampines,45,Male,16,S,5,5,90886,160
+FT700,Woodlands,47,Male,18,Partnered,4,5,104581,120
+FT700,Tiong Bahru,48,Male,18,P,4,5,95508,180
