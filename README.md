@@ -1,23 +1,22 @@
 # Data Visualization Using Python 
 
 ## About
-Goal: To investigate whether there are differences across the models with respect to customer characteristics. 
+Imagine that you are part of the market research team for Fitness Trainer Pte Ltd, a retail business specializing in the sales of stationary bike. The team has collected data on individuals who purchased a stationary bike at Fitness Trainer retail stores for the past three months. The data is stored in the Fitness Trainer Series.csv file. Through data preparation, exploration and visualisation, the market research team decides to investigate whether there are differences across the models with respect to customer characteristics. 
 
-Model Evaluation (Treadmill model sales understanding)
-1. Which model has least amount of sales for the past three months (or by geographic area)? 
+The data consists of the following variables: 
+1.	Product: Model of treadmill purchased (FT100, FT400, or FT700); 
+2.	Branch: Branch location where purchase is made (Woodlands, Tiong Bahru, Tampines, Jurong);
+3.	Gender: Gender of customer (Male or Female);
+4.	Age: Age of customer in years (integer values);
+5.	Education: Number of years of education customer had completed (integer values);
+6.	MaritalStatus: Marital status of customer (Single or Partnered);
+7.	Usage: Average number of times the customer plans to use the treadmill each week (integer values);
+8.	Fitness: Customer’s self-rated fitness on a 1-to-5 scale (1: very unfit; 5: very fit); 
+9.	Income: Customer’s annual household income (integer values); 
+10.	Miles: Average number of miles the customer expects to walk/run each week (integer values).
+![image](https://user-images.githubusercontent.com/73086331/144265184-a341b04a-202a-4c8e-893e-5a3d0d42f60e.png)
 
-Customer Characteristics vs Sales of the three models
-2. How is gender affects customer purchasing behavior on the three models?
-3. How is the age affects customer purchasing behavior on the three models?
-4. How is education level affects customer purchasing behaviors on the three models?
-5. How is marital status affects customer purchasing behaviors on the three models?
-6. How is the income affects customer purchasing behaviors on the three models?
 
-User Usage Goal and Expectations
-7. How is the customer self-rated fitness affects their expected miles walk/run?
-8. How does the customer rate their fitness?
-9. What are the customers expected average number of usage per week?
-10. What are the customers expected number of miles walk/run each week?
 
 ## Data Preparation
 -	State of data
